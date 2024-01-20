@@ -1,5 +1,4 @@
 
-
 # Basic module to practice publishing
 
 Terraform module, which creates an S3 backup of the kv store store secrets for Hashicorp Vault.
